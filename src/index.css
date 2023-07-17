@@ -1,0 +1,26 @@
+@font-face{
+  font-family: "NotoSansKRMedium";
+  src: url("../public/font/NotoSansKR-Medium.otf");
+}
+
+*{
+  font-family: "NotoSansKRMedium";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+body {
+  margin: 0;
+}
+
+h1{
+  font-size: 30px;
+  font-weight: 900;
+}
+
+h2{
+  font-size: 20px;
+  font-weight: 700;
+}
